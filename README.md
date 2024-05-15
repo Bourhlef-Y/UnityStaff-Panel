@@ -15,6 +15,7 @@ UnityStaff is a tool designed to solve the problem of moderating and managing co
 - Live display of all players and their identifiers
 - Viewing server resources
 - Web-Designed
+- More features coming soon ...
 
 
 ## Used By
